@@ -1,1 +1,1 @@
-# Apartment-management-Frontend-Spring
+# Apartment-management-Frontend-Angular
